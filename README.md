@@ -9,7 +9,8 @@ My personal profile page can be found [here][zafatar-exercism].
 The solutions are can be found in order:
 
 1. [Hello World]
-2. ...
+2. [Lasagna]
+3. ...
 
 ## Running
 
@@ -20,6 +21,7 @@ TBA.
 TBA.
 
 [Hello World]: https://github.com/zafatar/exercism-go/tree/development/hello-world
+[Lasagna]: https://github.com/zafatar/exercism-go/tree/development/lasagna
 
 [zafatar-exercism]: https://exercism.org/profiles/zafatar
 [exercism.org]: https://exercism.org
