@@ -10,7 +10,9 @@ The solutions are can be found in order:
 
 1. [Hello World]
 2. [Lasagna]
-3. ...
+3. [Annalyn's Infiltration]
+4. [Party Robot]
+5. ...
 
 ## Running
 
@@ -22,6 +24,8 @@ TBA.
 
 [Hello World]: https://github.com/zafatar/exercism-go/tree/development/hello-world
 [Lasagna]: https://github.com/zafatar/exercism-go/tree/development/lasagna
+[Annalyn's Infiltration]: https://github.com/zafatar/exercism-go/tree/development/annalyns-infiltration
+[Party Robot]: https://github.com/zafatar/exercism-go/tree/development/party-robot
 
 [zafatar-exercism]: https://exercism.org/profiles/zafatar
 [exercism.org]: https://exercism.org
