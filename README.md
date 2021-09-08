@@ -13,7 +13,8 @@ The solutions are can be found in order:
 3. [Annalyn's Infiltration]
 4. [Party Robot]
 5. [Savings Account]
-6. ...
+6. [Car Assemble]
+7. ...
 
 ## Running
 
@@ -28,6 +29,7 @@ TBA.
 [Annalyn's Infiltration]: https://github.com/zafatar/exercism-go/tree/development/annalyns-infiltration
 [Party Robot]: https://github.com/zafatar/exercism-go/tree/development/party-robot
 [Savings Account]: https://github.com/zafatar/exercism-go/tree/development/savings-account
+[Car Assemble]: https://github.com/zafatar/exercism-go/tree/development/car-assemble
 
 [zafatar-exercism]: https://exercism.org/profiles/zafatar
 [exercism.org]: https://exercism.org
