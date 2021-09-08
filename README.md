@@ -12,7 +12,8 @@ The solutions are can be found in order:
 2. [Lasagna]
 3. [Annalyn's Infiltration]
 4. [Party Robot]
-5. ...
+5. [Savings Account]
+6. ...
 
 ## Running
 
@@ -26,6 +27,7 @@ TBA.
 [Lasagna]: https://github.com/zafatar/exercism-go/tree/development/lasagna
 [Annalyn's Infiltration]: https://github.com/zafatar/exercism-go/tree/development/annalyns-infiltration
 [Party Robot]: https://github.com/zafatar/exercism-go/tree/development/party-robot
+[Savings Account]: https://github.com/zafatar/exercism-go/tree/development/savings-account
 
 [zafatar-exercism]: https://exercism.org/profiles/zafatar
 [exercism.org]: https://exercism.org
